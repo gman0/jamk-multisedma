@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>assets/bg.jpg</file>
+        <file>MainMenuForm.ui.qml</file>
+        <file>MainMenu.qml</file>
+        <file>assets/logo.jpg</file>
+        <file>ScrMenu.qml</file>
+        <file>ScrJoinGame.qml</file>
+        <file>JoinGame.qml</file>
+        <file>JoinGameForm.ui.qml</file>
+        <file>ScrHostGame.qml</file>
+        <file>HostGameForm.ui.qml</file>
+    </qresource>
+</RCC>
